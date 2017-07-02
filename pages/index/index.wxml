@@ -1,0 +1,16 @@
+<view class="container">
+    <swiper class="swiper-pic" indicator-dots circular indicator-color="#368" indicator-active-color="#fff">  
+        <swiper-item>
+            <image src="/images/swiper/1.jpg" />
+            </swiper-item>
+               <swiper-item>
+            <image src="/images/swiper/2.jpg" />
+            </swiper-item>
+               <swiper-item>
+            <image src="/images/swiper/3.jpg" />
+            </swiper-item>
+               <swiper-item>
+            <image src="/images/swiper/4.jpg" />
+            </swiper-item>
+    </swiper>
+</view>

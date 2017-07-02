@@ -1,0 +1,12 @@
+.container {
+    padding:0;
+}
+
+swiper{
+  height: 400rpx;
+  width: 100%;
+} 
+.swiper .swiper-pic{
+   height: 400rpx;
+   width: 100%;
+}

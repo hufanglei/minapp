@@ -1,5 +1,0 @@
-<view class="container">
-  <image class="avatar" src="/images/avatar/1.jpg"></image>
-  <text>hello,方雷</text>
-  <button  class="let_go"   bindtap="goTo"  type="default">let's go</button>
-</view>
